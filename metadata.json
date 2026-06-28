@@ -1,6 +1,0 @@
-{
-  "name": "Dynamic Content Management Platform",
-  "description": "Una plataforma de gestión de contenido dinámica con panel de administración, constructor visual de bloques drag-and-drop, gestión de roles/permisos, historial de versiones y visualizador de arquitectura técnica.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
